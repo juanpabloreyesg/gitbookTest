@@ -76,10 +76,34 @@ Para determinar los estudiantes con mejor o peor desempeño en la prueba especí
 
 Revise los resultados de los estudiantes de su programa para cada prueba específica.
 
+
+{% endstep %}
+
+{% step %}
+**¿Cómo se compara el desempeño en el Saber Pro respecto a la Prueba ICFES y el PGA de los estudiantes de su programa?**
+
+Acceda al reporte de **Revisión individual ingeniería - 2024**:
+
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="136"><figcaption></figcaption></figure>
+
+Utilice el filtro de **Programa** para seleccionar su programa:
+
+<figure><img src="../.gitbook/assets/image (31).png" alt="" width="275"><figcaption></figcaption></figure>
+
+En el filtro de **Resultado** seleccione el puntaje global.&#x20;
+
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
+En la tabla ubicada en la parte inferior del reporte, compare el resultado obtenido por los estudiantes de su programa en el Saber Pro respecto al resultado obtenido en el ICFES y su PGA.&#x20;
+
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
+Además, le recomendamos visitar el Perfil del estudiante en No estás solx para ver el detalle del desempeño en las materias durante el pregrado. El link al perfil de cada estudiante se encuentra en la columna **URL\_NES.**
+{% endstep %}
+{% endstepper %}
+
 Registre las respuestas a sus preguntas en el padlet
 
 {% embed url="https://uniandes.padlet.org/jp/taller-resultados-saberpro-3g86xrnx4462ocq8" %}
 Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
 {% endembed %}
-{% endstep %}
-{% endstepper %}
