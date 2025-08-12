@@ -2,7 +2,7 @@
 
 {% stepper %}
 {% step %}
-### Acceda a No estás Solx:
+#### Acceda a No estás Solx:
 
 {% embed url="https://noestassolo.virtual.uniandes.edu.co/" %}
 Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
@@ -15,8 +15,6 @@ Utilice el reporte de **Mis aconsejados,** y abra el panel de filtros:
 Seleccione para el filtro de **Nivel académico** la opción de **Pregrado**, y para el filtro de **Programa** seleccione la **Facultad de Ingeniería** y luego su programa:
 
 <figure><img src="../.gitbook/assets/image (25).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
 
 Finalmente para el filtro **Último período matriculado** seleccione **2025-20** y active la opción de **Estudiantado histórico** y **Todos los estudiantes:**
 
@@ -40,7 +38,7 @@ Finalmente puede descargarse el resultado en un archivo con el botón de descarg
 {% endstep %}
 
 {% step %}
-### ¿Quiénes son los estudiantes de su programa que están en prueba académica en el semestre actual?
+#### ¿Quiénes son los estudiantes de su programa que están en prueba académica en el semestre actual?
 
 Para identificar a estos estudiantes, utilice el filtro de **Estado Académico** y seleccione la opción **Prueba Académica:**
 
@@ -50,17 +48,15 @@ Revise los perfiles de los estudiantes
 {% endstep %}
 
 {% step %}
-### ¿Quiénes son los estudiantes de su programa que han aprobado menos del 50% de los créditos vistos?
+#### ¿Quiénes son los estudiantes de su programa que han aprobado menos del 50% de los créditos vistos?
 
 Para identificar a estos estudiantes, utilice el filtro de **Riesgo académico** y seleccione la opción **Materia Bloqueante:**
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 
 {% step %}
-### ¿Quiénes son los estudiantes de su programa con alguna materia bloqueante?
+#### ¿Quiénes son los estudiantes de su programa con alguna materia bloqueante?
 
 Para identificar a estos estudiantes, utilice la barra de desplazamiento de **Rango de porcentaje de créditos aprobados** y asegúrese que el intervalo activo esté entre **0** y **50:**
 
@@ -68,7 +64,7 @@ Para identificar a estos estudiantes, utilice la barra de desplazamiento de **Ra
 {% endstep %}
 
 {% step %}
-### ¿Quiénes son los estudiantes de su programa con PGA bajo?
+#### ¿Quiénes son los estudiantes de su programa con PGA bajo?
 
 Para identificar a estos estudiantes, utilice el filtro de **Riesgo académico** y seleccione la opción **PGA bajo en tercer semestre o más:**
 
@@ -76,7 +72,7 @@ Para identificar a estos estudiantes, utilice el filtro de **Riesgo académico**
 {% endstep %}
 
 {% step %}
-### ¿Quiénes son los estudiantes con estado académico normal qué han perdido dos o más semestres completos?
+#### ¿Quiénes son los estudiantes con estado académico normal qué han perdido dos o más semestres completos?
 
 Para identificar a estos estudiantes, utilice el filtro de **Riesgo académico** y seleccione la opción **Semestres perdidos:**
 
@@ -84,11 +80,10 @@ Para identificar a estos estudiantes, utilice el filtro de **Riesgo académico**
 {% endstep %}
 
 {% step %}
-### Registre conclusiones y descubrimientos al analizar a los estudiantes en en el padlet
+#### Registre conclusiones y descubrimientos al analizar a los estudiantes en en el padlet
 
 {% embed url="https://uniandes.padlet.org/jp/taller-estudiantes-en-riesgo-acad-mico-zag1ao2acpvxcj7m" %}
 Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
 {% endembed %}
 {% endstep %}
 {% endstepper %}
-

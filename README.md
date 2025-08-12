@@ -1,13 +1,9 @@
-# Taller de estudiantes suspendidos
+# Taller SaberPro
 
 **Duración**: 90 minutos.&#x20;
 
 **Objetivos**:
 
-1. Interpretar la tendencia de estudiantes suspendidos de su programa en los últimos 7 años: pre-pandemia, pandemia y post-pandemia.
-2. Identificar quiénes son los estudiantes suspendidos de su programa en términos de PGA, semestres matriculados, suspensiones acumulados, créditos cursados, porcentaje de créditos aprobados, semestres perdidos, materias bloqueantes y nota requerida para superar la prueba académica.
-3. Seleccionar los estudiantes que serán invitados al programa piloto de estudiantes suspendidos.
-4. Definir estrategias de intervención sobre esta población estudiantil.
-
-
-
+1. Interpretar la tendencia de puntajes de Saber Pro en todas las pruebas a nivel global y a nivel de cada programa en los últimos 7 años: pre-pandemia, pandemia y post-pandemia.
+2. Identificar fortalezas y debilidades de su programa en las diferentes pruebas durante los últimos dos años.
+3. Definir estrategias de intervención para mejorar el desempeño de los estudiantes de su programa en las diferentes pruebas.

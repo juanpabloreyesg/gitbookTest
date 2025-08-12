@@ -2,7 +2,7 @@
 
 {% stepper %}
 {% step %}
-### Acceda al reporte dinámico
+#### Acceda al reporte dinámico
 
 {% embed url="https://noestassolo.virtual.uniandes.edu.co/estudiantes-perdida/suspendidos/IN_202510" %}
 Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
@@ -17,7 +17,7 @@ Realice los siguientes pasos usando la información contenida en este reporte.
 {% endstep %}
 
 {% step %}
-### Identifique cuántos y quiénes son los estudiantes que quedaron suspendidos en el último semestre en su programa:
+#### Identifique cuántos y quiénes son los estudiantes que quedaron suspendidos en el último semestre en su programa:
 
 Utilice el reporte con los filtros de **Programa** y analice cada estudiante usando la información de **PGA**, **Total de Semestres Acumulados, Suspensiones Acumulados, Créditos Totales Cursados, % de Créditos Aprobados, Nota Requerida para PGA 3.25, Materias Bloqueantes** y **Semestres Perdidos**.
 
@@ -25,7 +25,7 @@ Si el número de estudiantes es elevado, seleccione algunos perfiles al azar y a
 {% endstep %}
 
 {% step %}
-### A partir de esta revisión ¿A quiénes de estos estudiantes invitaría al Programa piloto para estudiantes en suspensión académica?
+#### A partir de esta revisión ¿A quiénes de estos estudiantes invitaría al Programa piloto para estudiantes en suspensión académica?
 
 Registre su selección en el siguiente archivo:
 
@@ -35,7 +35,7 @@ Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
 {% endstep %}
 
 {% step %}
-### Ahora reflexione usando las siguientes preguntas guías:
+#### Ahora reflexione usando las siguientes preguntas guías:
 
 1. ¿Los consejeros de estudiantes suspendidos designados en su departamento son suficientes para acompañar a esta población estudiantil?
 2. ¿Qué estrategias utilizaría para intervenir efectivamente este grupo de estudiantes?
@@ -43,11 +43,10 @@ Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
 {% endstep %}
 
 {% step %}
-### Registre las respuestas a las preguntas guía en el padlet
+#### Registre las respuestas a las preguntas guía en el padlet
 
 {% embed url="https://uniandes.padlet.org/jp/bulletin-board-42gdxz62q6rduyo2" %}
 Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
 {% endembed %}
 {% endstep %}
 {% endstepper %}
-

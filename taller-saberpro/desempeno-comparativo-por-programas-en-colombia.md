@@ -2,17 +2,15 @@
 
 {% stepper %}
 {% step %}
-### Acceda al reporte de PowerBI del estudio de SaberPro
+#### Acceda al reporte de PowerBI del estudio de SaberPro
 
-{% embed url="https://app.powerbi.com/groups/me/reports/3c1d1164-5551-43fd-bc86-ea3f39ba1e98?bookmarkGuid=9acff880-1940-42b6-be07-d6bbf91afebe&ctid=fabd047c-ff48-492a-8bbb-8f98b9fb9cca&pbi_source=linkShare" %}
-Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
-{% endembed %}
+{% include "../.gitbook/includes/untitled (1).md" %}
 
 Responda a las preguntas de los siguientes pasos usando los reportes correspondientes.
 {% endstep %}
 
 {% step %}
-### ¿Cómo ha sido el desempeño y la población (cantidad de estudiantes) de su programa en las pruebas en los últimos 7 años en comparación con las top 3 universidades, las top 5 y las universidades que usted considera son competencia de su programa?
+#### ¿Cómo ha sido el desempeño y la población (cantidad de estudiantes) de su programa en las pruebas en los últimos 7 años en comparación con las top 3 universidades, las top 5 y las universidades que usted considera son competencia de su programa?
 
 Acceda al reporte de **Competencias genéricas por institución**:
 
@@ -28,17 +26,17 @@ Añada manualmente otras universidades utilizando el filtro de **Institución**:
 {% endstep %}
 
 {% step %}
-### ¿En qué pruebas genéricas los estudiantes de su programa han mostrado cambios (mejora/desmejora) en el desempeño con relación a las top 3 universidades y a las universidades que usted considera son competencia de su programa? ¿A qué cree que se deben estos cambios?
+#### ¿En qué pruebas genéricas los estudiantes de su programa han mostrado cambios (mejora/desmejora) en el desempeño con relación a las top 3 universidades y a las universidades que usted considera son competencia de su programa? ¿A qué cree que se deben estos cambios?
 
-Acceda al reporte de Puntaje Promedio por Prueba:
+Acceda al reporte de **Puntaje promedio por prueba y programa**:
 
-<figure><img src="../.gitbook/assets/image (37).png" alt="" width="112"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt="" width="110"><figcaption></figcaption></figure>
 
 Seleccione su **programa** usando el filtro del mismo nombre:
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-Utilice el filtro de **Top universidades** para seleccionar las universidades que en promedio han obtenido el mejor puntaje en los últimos 7 años:
+&#x20; Utilice el filtro de **Top universidades** para seleccionar las universidades que en promedio han obtenido el mejor puntaje en los últimos 7 años:
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,13 +54,11 @@ Finalmente puede revisar los datos comparativos por cada prueba para los program
 {% endstep %}
 
 {% step %}
-### ¿En qué pruebas específicas los estudiantes de su programa han mostrado cambios (mejora/desmejora) en el desempeño con relación a las top 3 universidades y a las universidades que usted considera son competencia de su programa? ¿A qué cree que se deben estos cambios?
+#### ¿En qué pruebas específicas los estudiantes de su programa han mostrado cambios (mejora/desmejora) en el desempeño con relación a las top 3 universidades y a las universidades que usted considera son competencia de su programa? ¿A qué cree que se deben estos cambios?
 
-Acceda al reporte de **Puntaje promedio por prueba y programa**:
+Acceda al reporte de **Puntaje promedio por prueba**:
 
-<figure><img src="../.gitbook/assets/image (33).png" alt="" width="110"><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (37).png" alt="" width="112"><figcaption></figcaption></figure>
 
 Para seleccionar su programa, utilice el filtro **Programa (NBC)**. Puede utilizar el campo de "Search" para localizar el nombre del mismo:
 
@@ -79,12 +75,10 @@ Añada manualmente otras universidades utilizando el filtro de **Institución**:
 Seleccione las pruebas específicas que presentan los estudiantes de su programa utilizando el filtro de **Prueba**. Utilice el campo de "Search" para localizar rápidamente el nombre de cada prueba:
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 
 {% step %}
-### Registre las respuestas a sus preguntas en el padlet
+#### Registre las respuestas a sus preguntas en el padlet
 
 {% embed url="https://uniandes.padlet.org/jp/taller-resultados-saberpro-3g86xrnx4462ocq8" %}
 Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva

@@ -1,6 +1,12 @@
 # Table of contents
 
-* [Taller de estudiantes suspendidos](README.md)
+* [Taller SaberPro](README.md)
+  * [Desempeño global](taller-saberpro/desempeno-global.md)
+  * [Desempeño comparativo por programas en Colombia](taller-saberpro/desempeno-comparativo-por-programas-en-colombia.md)
+  * [Desempeño comparativo por programas en Uniandes](taller-saberpro/desempeno-comparativo-por-programas-en-uniandes.md)
+  * [Resultados individuales](taller-saberpro/desempeno-global-1.md)
+  * [Definición de intervenciones y puesta en común](taller-saberpro/definicion-de-intervenciones-y-puesta-en-comun.md)
+* [Taller de estudiantes suspendidos](<README (1).md>)
   * [Análisis de tendencias](taller-de-estudiantes-suspendidos/analisis-de-tendencias.md)
   * [Definición de intervenciones](taller-de-estudiantes-suspendidos/definicion-de-intervenciones.md)
   * [Puesta en común](taller-de-estudiantes-suspendidos/puesta-en-comun.md)
@@ -9,9 +15,4 @@
   * [Identificación de estudiantes](taller-de-estudiantes-en-alto-riesgo-academico/identificacion-de-estudiantes.md)
   * [Definición de criterios de riesgo](taller-de-estudiantes-en-alto-riesgo-academico/definicion-de-criterios-de-riesgo.md)
   * [Puesta en común](taller-de-estudiantes-en-alto-riesgo-academico/puesta-en-comun.md)
-* [Taller SaberPro](taller-saberpro/README.md)
-  * [Desempeño global](taller-saberpro/desempeno-global.md)
-  * [Desempeño comparativo por programas en Colombia](taller-saberpro/desempeno-comparativo-por-programas-en-colombia.md)
-  * [Desempeño comparativo por programas en Uniandes](taller-saberpro/desempeno-comparativo-por-programas-en-uniandes.md)
-  * [Definición de intervenciones y puesta en común](taller-saberpro/definicion-de-intervenciones-y-puesta-en-comun.md)
 * [Glosario No Estás Solx](glosario-no-estas-solx.md)

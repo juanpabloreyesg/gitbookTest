@@ -2,13 +2,13 @@
 
 {% stepper %}
 {% step %}
-### Antes de comenzar, responda:
+#### Antes de comenzar, responda:
 
 ¿Qué criterios usaría usted para identificar los estudiantes en alto riesgo académico de su programa?
 {% endstep %}
 
 {% step %}
-### Acceda a No estás Solx:
+#### Acceda a No estás Solx:
 
 {% embed url="https://noestassolo.virtual.uniandes.edu.co/" %}
 Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
@@ -18,7 +18,7 @@ Responda a las preguntas de los siguientes pasos usando los reportes correspondi
 {% endstep %}
 
 {% step %}
-### Seleccione los estudiantes de su programa matriculados en el 2025-20.
+#### Seleccione los estudiantes de su programa matriculados en el 2025-20.
 
 Utilice el reporte de **Mis aconsejados,** y abra el panel de filtros:
 
@@ -34,13 +34,13 @@ Finalmente para el filtro **Último período matriculado** seleccione **2025-20*
 {% endstep %}
 
 {% step %}
-### Seleccione los estudiantes en riesgo académico de su programa:
+#### Seleccione los estudiantes en riesgo académico de su programa:
 
 Basado en los criterios que definió en el punto 1, aplique en los filtros para identificar a los estudiantes en riesgo. Puede consultar el [Glosario de No Estás Solx](../glosario-no-estas-solx.md) para validar qué efecto tiene cada criterio.
 {% endstep %}
 
 {% step %}
-### Reflexione usando las siguientes preguntas guías:
+#### Reflexione usando las siguientes preguntas guías:
 
 1. ¿Cuántos y quiénes son los estudiantes en alto riesgo académico de su programa?
 2. ¿Los consejeros de estudiantes en riesgo designados en su departamento son suficientes para acompañar a esta población estudiantil?
@@ -49,11 +49,10 @@ Basado en los criterios que definió en el punto 1, aplique en los filtros para 
 {% endstep %}
 
 {% step %}
-### Registre las respuestas a sus preguntas en el padlet
+#### Registre las respuestas a sus preguntas en el padlet
 
 {% embed url="https://uniandes.padlet.org/jp/taller-estudiantes-en-riesgo-acad-mico-zag1ao2acpvxcj7m" %}
 Ingrese al enlace haciendo Clic Derecho>Abrir enlace en una pestaña nueva
 {% endembed %}
 {% endstep %}
 {% endstepper %}
-
