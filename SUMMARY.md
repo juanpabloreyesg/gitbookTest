@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Taller SaberPro](README.md)
+* [Taller Saber Pro](README.md)
   * [Desempeño global](taller-saberpro/desempeno-global.md)
   * [Desempeño comparativo por programas en Colombia](taller-saberpro/desempeno-comparativo-por-programas-en-colombia.md)
   * [Desempeño comparativo por programas en Uniandes](taller-saberpro/desempeno-comparativo-por-programas-en-uniandes.md)
