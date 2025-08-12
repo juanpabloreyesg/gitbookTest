@@ -1,0 +1,41 @@
+# Glosario No Estás Solx
+
+## Listado de criterios de riesgo académico - Pregrado
+
+Los criterios se evalúan de forma independiente y un estudiante puede cumplir múltiples criterios simultáneamente, lo que indicaría un riesgo académico elevado que requiere intervención prioritaria y personalizada.
+
+#### **Exclusiones Generales**
+
+* Estudiantes ya graduados (para criterios aplicables)
+* Materias deportivas (DEPO)
+* Materias con 0 créditos académicos
+
+| Riesgo Académico                    | Descripción                                                                                                                                                                                                                                                      | Parámetros de Evaluación                                                                                                                                                                   |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Materia bloqueante**              | Identifica estudiantes que han reprobado materias críticas (bloqueantes) múltiples veces.                                                                                                                                                                        | <ul><li>3 o más intentos fallidos por materia.</li></ul><ul><li>Solo estudiantes con estado académico Normal.</li></ul><ul><li>Excluye estudiantes ya graduados.</li></ul>                 |
+| **Pocos créditos inscritos**        | Detecta estudiantes que han pagado matrícula completa pero se han inscrito a una carga académica insuficiente.                                                                                                                                                   | Matrícula completa: menos de 13 créditos (Medicina) o menos de 10 créditos (otros programas).                                                                                              |
+| **Semestres perdidos**              | Detecta estudiantes que han perdido dos o más semestres completos (promedio < 3.0) pero mantienen estado académico "Normal", indicando que el sistema de alertas regulares no ha sido efectivo para estos casos. \| - 2 o más semestres con promedio menor a 3.0 | <p></p><ul><li>2 o más semestres con promedio menor a 3.0.</li><li>Solo estudiantes con estado académico Normal.</li><li>Último semestre perdido posterior a 202320.</li></ul>             |
+| Tres o más materias retiradas       | Identifica estudiantes que muestran un patrón preocupante de abandono de materias durante el semestre actual.                                                                                                                                                    | <p></p><ul><li>3 o más materias con estado RETIRADO en el semestre actual.</li><li>Excluye materias deportivas y materias con 0 créditos.</li></ul>                                        |
+| Tres o más materias perdidas al 30% | Identifica estudiantes que presentan dificultades académicas generalizadas durante el semestre en curso.                                                                                                                                                         | <p></p><ul><li>3 o más materias con calificación parcial menor a 3.0 en el semestre actual.</li><li>Excluye materias deportivas, materias con 0 créditos y calificaciones nulas.</li></ul> |
+| PGA bajo en segundo semestre        | Detecta estudiantes en su segundo semestre académico que presentan un PGA en rango crítico.                                                                                                                                                                      | <p></p><ul><li>PGA entre 3.0 y 3.3 para estudiantes en su segundo semestre académico.</li></ul>                                                                                            |
+| PGA bajo en tercer semestre o más   | Identifica estudiantes con experiencia universitaria (3+ semestres) que mantienen un PGA en rango limítrofe.                                                                                                                                                     | <p></p><ul><li>PGA entre 3.25 y 3.5 para estudiantes con 3 o más semestres completados.</li></ul>                                                                                          |
+| Bajo promedio móvil                 | Identifica estudiantes activos cuyo promedio móvil se encuentra por debajo del umbral establecido, indicando un rendimiento académico reciente insatisfactorio (últimos dos semestres) que compromete las perspectivas de graduación exitosa.                    | <p></p><ul><li>Promedio móvil menor o igual a 3.5.</li><li>Solo estudiantes matriculados en el periodo actual de pregrado.</li><li>Excluye estudiantes ya graduados.</li></ul>             |
+
+***
+
+## Listado de valores de estados académico - Pregrado
+
+| Estado académico                | Descripción                                                                                                                                                                             |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Normal**                      | El estado de un estudiante que no está bajo ningún tipo de medida académica o disciplinaria.                                                                                            |
+| **Primíparo**                   | Se refiere al estudiante de primer semestre. Reglamentariamente, un estudiante admitido a un nuevo programa con opción de iniciar un nuevo promedio es tratado como primíparo.          |
+| **Prueba académica**            | Medida derivada de un bajo rendimiento académico. Busca advertir al estudiante para que mejore su desempeño en el semestre en curso. Existen dos modalidades:                           |
+| **Total**                       | Para estudiantes desde segundo semestre con promedio acumulado menor a 3.25.                                                                                                            |
+| **De reingreso**                | Para estudiantes que reingresan tras suspensión por bajo rendimiento. En ambos casos, deben alcanzar un promedio acumulado mínimo de 3.25.                                              |
+| **Prueba de transferencia**     | Aplica a estudiantes que ingresan mediante transferencia externa. Deben obtener un promedio del semestre igual o superior a 3.25 durante su primer periodo académico en la Universidad. |
+| **Suspensión**                  | Medida temporal de retiro de los programas regulares, por razones académicas o disciplinarias.                                                                                          |
+| **Académica**                   | Retiro por un semestre si no se cumplen los requisitos de promedio en prueba académica, de reingreso, transferencia o primer semestre.                                                  |
+| **Disciplinaria**               | Exclusión temporal (hasta 6 semestres) por faltas graves.                                                                                                                               |
+| **Reintegro**                   | Procedimiento mediante el cual un estudiante que se retiró voluntariamente de un programa regular vuelve a ingresar a este.                                                             |
+| **Expulsión de la universidad** |  Cancelación definitiva de la matrícula por haber cometido una falta disciplinaria muy grave.                                                                                           |
+
